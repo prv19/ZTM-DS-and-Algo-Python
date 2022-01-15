@@ -22,7 +22,7 @@ def merge(arr1, arr2):
         
     return merged
 
-print("Merging two sorted integer arrays ...")
+print("Merging two sorted integer arrays .... ")
 print("array-1:", arr1)
 print("array-2:", arr2)
 print("merged array:", merge(arr1, arr2))
